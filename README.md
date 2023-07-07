@@ -1,4 +1,10 @@
-### Hi there 👋
+Bem-vindo ao meu perfil de desenvolvedor!
+
+Recentemente, iniciei meus projetos como desenvolvedor. Fique a vontade para fazelr comentários, compartilhar e testar meus projetos.
+
+# Meus principais projetos
+
+
 
 <!--
 **devgabrielnascimento/devgabrielnascimento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
