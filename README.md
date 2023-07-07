@@ -1,6 +1,6 @@
 Bem-vindo ao meu perfil de desenvolvedor!
 
-Recentemente, iniciei meus projetos como desenvolvedor. Fique a vontade para fazelr comentários, compartilhar e testar meus projetos.
+Recentemente, iniciei meus projetos como desenvolvedor. Fique a vontade para fazer comentários, compartilhar e testar meus projetos.
 
 # Meus principais projetos
 
