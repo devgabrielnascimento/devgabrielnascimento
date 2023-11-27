@@ -5,6 +5,9 @@ Recentemente, iniciei meus projetos como desenvolvedor. Fique a vontade para faz
 # Meus principais projetos
 
 
+##Confira as minhas redes sociais:
+
+<a href="https://www.instagram.com/devgabrielnascimento"> <img src="https://lh3.googleusercontent.com/pw/ADCreHd7e5eAk4EvW8wQ0MNcQ6imNCkpvr92iUKu5wBd12WOu3quA0So906xR-qJLphTQq2Hal7_4eY5IDW-Y1aBNqtTye2BKOfwD-J1RDKQ8oqW7iRx89KtqwFOXON5pNwh1g0zoYCDwx1KoDsqLHHSPfo4hLnag5Zov9eozGbU7Fe2EUL3jDsMm6YmRQXOLdMO_I_5_ULuwBLoA2pFZspyz6KIzmfiJbTa1yNF386ZiQAFByQ8HW8_vzgGYkyDWZfsEHnrQCB8fX47fCyxbpg3v9RaFg2_sVKCKigcIiTinGR9TwhsC-zPDdUr5NGaLxOORbAoXdpCK_LUovNSM0RsfxwY8P_D8scx_J5RkiC2Chz1rbkL1jbCYnpqnH1WU0YSjVLO-C-fI9qoSkI4npg_PtSGBN8eDVspbGcR6AEaDFqgQJWhNRkPhJE4WYb0QHx9bF5N1o4nW34JonQ-k0Fr6pkeCYEb-bmyt8OtAiByOw4xU6qQL8wb0UqWEreAtHOr9_ycIJ7Mn6rs2uZxhrVbeU1WUDYTQvzA74x2IsLTMEUxiwYOGo-ZbltftMhBBVM6kcQ-GKEylMnfr3M_SyOTjMqB5dihZRtRUZZYd0Xkzw2JCwiEVhMymlJIeCWqezEz0ZwHVVDUuz1Gbd-DwmxYLvJWdIYUmPSRMeIg3mE7BW9A6ogVc1km6RpwhmOyGusk1-POAMmWcybNCVAH57_a3kqlbaYFPb3Fuy8fvSRe99ZfboEB5lvbnsK3BxgiuLDps7dUwKHAdsB2dnEwOfY6OSrzjMY_i7uyfuDSxpcJKlWqHQSl_-he-lSR2nQDzZB88LaOI31fZqdNpTk-N1fddafF22NH3tfhxzOMVyTXg4057hFRXeA5dkL3bJpJ5Tf-arhg=w42-h42-s-no-gm?authuser=0" alt="gif instagram"/></a>
 
 <!--
 **devgabrielnascimento/devgabrielnascimento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
