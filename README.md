@@ -1,4 +1,4 @@
-<img src="https://imgur.com/XABBpOP.gif"/> 
+<img src="https://imgur.com/XABBpOP.gif"> 
 
 Bem-vindo ao meu perfil de desenvolvedor!
 
