@@ -20,9 +20,6 @@ Confira as minhas redes sociais:
     </table>
 </div>
 
-![inst](https://github.com/devgabrielnascimento/devgabrielnascimento/assets/92201977/8d372031-5559-4b83-a6ab-9422c39cc6ba)
-![instagram](https://github.com/devgabrielnascimento/devgabrielnascimento/assets/92201977/b65ea724-43ed-4032-bec3-4a000c0e8fdf)
-![novo](https://github.com/devgabrielnascimento/devgabrielnascimento/assets/92201977/731153dd-2922-4072-995c-a3a53e744c11)
 
 # Meus principais projetos
 <!--
