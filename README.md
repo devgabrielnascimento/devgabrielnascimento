@@ -14,7 +14,7 @@ Confira as minhas redes sociais:
             <td style="padding:10px">
               <a href="https://www.linkedin.com/in/devgabrielnascimento/"> <img src="https://imgur.com/bxaeCVJ.gif" alt="gif linkedin"/></a>
             </td>
-            <td style="padding:10px"> <a href="https://www.instagram.com/devgabrielnascimento"> <img src="https://i.imgur.com/c997zKM.gif" alt="gif instagram"/></a>
+            <td style="padding:10px"> <a href="https://www.instagram.com/devgabrielnascimento"> <img src="https://imgur.com/YBX64Wk.gif" alt="gif instagram"/></a>
             </td>
         </tr>
     </table>
