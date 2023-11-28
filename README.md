@@ -12,7 +12,7 @@ Confira as minhas redes sociais:
     <table>
         <tr>
             <td style="padding:10px">
-              <a href="https://www.linkedin.com/in/devgabrielnascimento/"> <img src="https://imgur.com/bxaeCVJ.gif" alt="gif linkedin"/></a>
+              <a href="https://www.linkedin.com/in/devgabrielnascimento/"> <img src="https://imgur.com/xRYatc8.gif" alt="gif linkedin"/></a>
             </td>
             <td style="padding:10px"> <a href="https://www.instagram.com/devgabrielnascimento"> <img src="https://imgur.com/YBX64Wk.gif" alt="gif instagram"/></a>
             </td>
