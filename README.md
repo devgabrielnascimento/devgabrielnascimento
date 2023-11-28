@@ -2,13 +2,13 @@ Bem-vindo ao meu perfil de desenvolvedor!
 
 Recentemente, iniciei meus projetos como desenvolvedor. Fique a vontade para fazer comentários, compartilhar e testar meus projetos.
 
-# Meus principais projetos
+
 
 
 Confira as minhas redes sociais:
 
 
-<div id="image-table" align="center">
+<div id="image-table" align="left">
     <table>
         <tr>
             <td style="padding:10px">
@@ -20,6 +20,7 @@ Confira as minhas redes sociais:
     </table>
 </div>
 
+# Meus principais projetos
 <!--
 **devgabrielnascimento/devgabrielnascimento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
