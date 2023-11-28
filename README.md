@@ -1,3 +1,5 @@
+<img src="https://imgur.com/XABBpOP.gif"/> 
+
 Bem-vindo ao meu perfil de desenvolvedor!
 
 Recentemente, iniciei meus projetos como desenvolvedor. Fique a vontade para fazer comentários, compartilhar e testar meus projetos.
