@@ -5,7 +5,7 @@ Bem-vindo ao meu perfil de desenvolvedor!
 Recentemente, iniciei meus projetos como desenvolvedor. Fique a vontade para fazer comentários, compartilhar e testar meus projetos.
 
 
-
+<img src="https://imgur.com/OGZO7Q9.gif">
 
 Confira as minhas redes sociais:
 
