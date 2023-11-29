@@ -1,4 +1,4 @@
-<img src="https://imgur.com/a/v7FwMIm.gif" alt="banner welcome"> 
+<img src="https://imgur.com/wVngxzd.gif" alt="banner welcome"> 
 
 Bem-vindo ao meu perfil de desenvolvedor!
 
