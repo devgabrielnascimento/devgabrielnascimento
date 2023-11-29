@@ -4,9 +4,6 @@ Bem-vindo ao meu perfil de desenvolvedor!
 
 Recentemente, iniciei meus projetos como desenvolvedor. Fique a vontade para fazer comentários, compartilhar e testar meus projetos.
 
-
-<img src="https://imgur.com/OGZO7Q9.gif">
-
 Confira as minhas redes sociais:
 
 
@@ -14,9 +11,9 @@ Confira as minhas redes sociais:
     <table>
         <tr>
             <td style="padding:10px">
-              <a href="https://www.linkedin.com/in/devgabrielnascimento/"> <img src="https://imgur.com/2NonhdY.gif" alt="gif linkedin"/></a>
+              <a href="https://www.linkedin.com/in/devgabrielnascimento/"> <img src="https://imgur.com/r6YZCcR.gif" alt="gif linkedin"/></a>
             </td>
-            <td style="padding:10px"> <a href="https://www.instagram.com/devgabrielnascimento"> <img src=https://imgur.com/Ap7C5AK.gif" alt="gif instagram"/></a>
+            <td style="padding:10px"> <a href="https://www.instagram.com/devgabrielnascimento"> <img src="https://imgur.com/q8WYvf4.gif" alt="gif instagram"/></a>
             </td>
         </tr>
     </table>
