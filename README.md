@@ -15,10 +15,10 @@ Minhas skills:
     <table>
         <tr>
             <td style="padding:10px">
-            <img src="https://imgur.com/1TwRQ4G.gif" alt="gif nuvem"/>
+            <img src="https://imgur.com/uEu918e.gif" alt="gif nuvem"/>
             </td>
             <td style = "padding: 10px">
-            <img src="https://imgur.com/q74T4f5.gif" alt="gif react"/>
+            <img src="https://imgur.com/Y6s6iVW.gif" alt="gif react"/>
             </td>
             <td style = "padding: 10px">
             <img src="https://imgur.com/4KYrXJl.gif" alt="gif javascript"/>
@@ -33,6 +33,9 @@ Minhas skills:
         <tr>
             <td style = "padding: 10px">
             <img src="https://imgur.com/DLYuqbH.gif" alt="gif sql"/>
+            </td>
+            <td style = "padding: 10px">
+            <img src="https://imgur.com/QuoqkpS.gif" alt="gif java"/>
             </td>
         </tr>
     </table>
