@@ -30,6 +30,9 @@ Minhas skills:
             <td style = "padding: 10px">
             <img src="https://imgur.com/q74T4f5.gif" alt="gif react"/>
             </td>
+            <td style = "padding: 10px">
+            <img src="https://imgur.com/4KYrXJl.gif" alt="gif javascript"/>
+            </td>
         </tr>
     </table>
 </div>
