@@ -8,7 +8,7 @@ Recentemente, iniciei meus projetos como desenvolvedor. Fique a vontade para faz
 Confira as minhas redes sociais:
 
 
-<div id="image-table" align="center">
+<div id="image-table" align="left">
     <table>
         <tr>
             <td style="padding:10px">
