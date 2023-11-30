@@ -1,3 +1,4 @@
+<div align="center">
 <img src="https://imgur.com/wVngxzd.gif" alt="banner welcome"> 
 
 Bem-vindo ao meu perfil de desenvolvedor!
@@ -39,7 +40,7 @@ Minhas skills:
         </tr>
     </table>
 </div>
-
+</div>
 
 # Meus principais projetos
 <!--
