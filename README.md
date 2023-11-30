@@ -27,6 +27,7 @@ Minhas skills:
             <td style="padding:10px">
             <img src="https://imgur.com/1TwRQ4G.gif" alt="gif nuvem"/>
             </td>
+            <td style = "padding: 10px">
             <img src="https://imgur.com/q74T4f5.gif" alt="gif react"/>
             </td>
         </tr>
