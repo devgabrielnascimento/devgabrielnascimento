@@ -33,6 +33,9 @@ Minhas skills:
             <td style = "padding: 10px">
             <img src="https://imgur.com/4KYrXJl.gif" alt="gif javascript"/>
             </td>
+            <td style = "padding: 10px">
+            <img src="https://imgur.com/TO2azno.gif" alt="gif sql"/>
+            </td>
         </tr>
     </table>
 </div>
