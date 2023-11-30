@@ -7,18 +7,7 @@ Recentemente, iniciei meus projetos como desenvolvedor. Fique a vontade para faz
 
 
 
-<div id="image-table" align="left">
-    <table>
-        <tr>
-        Confira as minhas redes sociais:
-            <td style="padding:10px">
-              <a href="https://www.linkedin.com/in/devgabrielnascimento/"> <img src="https://imgur.com/r6YZCcR.gif" alt="gif linkedin"/></a>
-            </td>
-            <td style="padding:10px"> <a href="https://www.instagram.com/devgabrielnascimento"> <img src="https://imgur.com/q8WYvf4.gif" alt="gif instagram"/></a>
-            </td>
-        </tr>
-    </table>
-</div>
+
 
 Minhas skills:
 
@@ -44,6 +33,19 @@ Minhas skills:
         <tr>
             <td style = "padding: 10px">
             <img src="https://imgur.com/DLYuqbH.gif" alt="gif sql"/>
+            </td>
+        </tr>
+    </table>
+</div>
+
+<div id="image-table" align="left">
+    <table>
+        <tr>
+        Confira as minhas redes sociais:
+            <td style="padding:10px">
+              <a href="https://www.linkedin.com/in/devgabrielnascimento/"> <img src="https://imgur.com/r6YZCcR.gif" alt="gif linkedin"/></a>
+            </td>
+            <td style="padding:10px"> <a href="https://www.instagram.com/devgabrielnascimento"> <img src="https://imgur.com/q8WYvf4.gif" alt="gif instagram"/></a>
             </td>
         </tr>
     </table>
