@@ -5,12 +5,12 @@ Bem-vindo ao meu perfil de desenvolvedor!
 
 Recentemente, iniciei meus projetos como desenvolvedor. Fique a vontade para fazer comentários, compartilhar e testar meus projetos.
 
-Confira as minhas redes sociais:
 
 
 <div id="image-table" align="left">
     <table>
         <tr>
+        Confira as minhas redes sociais:
             <td style="padding:10px">
               <a href="https://www.linkedin.com/in/devgabrielnascimento/"> <img src="https://imgur.com/r6YZCcR.gif" alt="gif linkedin"/></a>
             </td>
