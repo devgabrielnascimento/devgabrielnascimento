@@ -8,7 +8,7 @@ Recentemente, iniciei meus projetos como desenvolvedor. Fique a vontade para faz
 Confira as minhas redes sociais:
 
 
-<div id="image-table" align="left">
+<div id="image-table" align="center">
     <table>
         <tr>
             <td style="padding:10px">
@@ -22,7 +22,7 @@ Confira as minhas redes sociais:
 
 Minhas skills:
 
-<div id="image-table" align="left">
+<div id="image-table" align="center">
     <table>
         <tr>
             <td style="padding:10px">
