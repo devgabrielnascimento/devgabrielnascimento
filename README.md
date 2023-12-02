@@ -65,7 +65,9 @@ Contatos:
         </tr>
 </table>
 </div>
+<br>
 ou
+<br>
 <div id="image-table" align="center">
     <table>
         <tr>
