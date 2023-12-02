@@ -56,7 +56,7 @@ Minhas skills:
         </tr>
     </table>
 </div>
-Contatos:
+<p>Contatos:</p>
 <div id="image-table" align="center">
     <table>
         <tr>
@@ -66,7 +66,7 @@ Contatos:
 </table>
 </div>
 <br>
-ou
+<p>ou</p>
 <br>
 <div id="image-table" align="center">
     <table>
