@@ -56,6 +56,7 @@ Minhas skills:
         </tr>
     </table>
 </div>
+Contatos:
 <div id="image-table" align="left">
     <table>
         <tr>
