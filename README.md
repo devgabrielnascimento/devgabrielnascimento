@@ -76,6 +76,9 @@ Minhas skills:
 </div>
 </div>
 
+![Group ](https://github.com/devgabrielnascimento/devgabrielnascimento/assets/92201977/8d435cbe-aba2-45ac-a3e3-048088672d89)
+
+
 # Meus principais projetos
 <!--
 **devgabrielnascimento/devgabrielnascimento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
