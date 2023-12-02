@@ -65,9 +65,7 @@ Minhas skills:
         </tr>
 </table>
 </div>
-<br>
 <p>ou</p>
-<br>
 <div id="image-table" align="center">
     <table>
         <tr>
