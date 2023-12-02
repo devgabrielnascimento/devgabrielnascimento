@@ -49,9 +49,9 @@ Minhas skills:
         <tr>
         Confira as minhas redes sociais:
             <td style="padding:10px">
-              <a href="https://www.linkedin.com/in/devgabrielnascimento/"> <img src="https://imgur.com/r6YZCcR.gif" alt="gif linkedin"/></a>
+              <a href="https://www.linkedin.com/in/devgabrielnascimento/"> <img src="https://imgur.com/1kK8e48.gif" alt="gif linkedin"/></a>
             </td>
-            <td style="padding:10px"> <a href="https://www.instagram.com/devgabrielnascimento"> <img src="https://imgur.com/q8WYvf4.gif" alt="gif instagram"/></a>
+            <td style="padding:10px"> <a href="https://www.instagram.com/devgabrielnascimento"> <img src="https://imgur.com/0zW4dLj.gif" alt="gif instagram"/></a>
             </td>
         </tr>
     </table>
