@@ -44,7 +44,7 @@ Minhas skills:
     </table>
 </div>
 
-<div id="image-table" align="left">
+<div id="image-table" align="center">
     <table>
         <tr>
         Confira as minhas redes sociais:
@@ -57,7 +57,7 @@ Minhas skills:
     </table>
 </div>
 Contatos:
-<div id="image-table" align="left">
+<div id="image-table" align="center">
     <table>
         <tr>
          <td style="padding:10px"> <a href="https://www.instagram.com/devgabrielnascimento"> <img src="https://imgur.com/s5JOIo0.gif" alt="gif whatsapp"/></a>
@@ -66,7 +66,7 @@ Contatos:
 </table>
 </div>
 
-<div id="image-table" align="left">
+<div id="image-table" align="center">
     <table>
         <tr>
          <td style="padding:10px"> <a href="mailto:devgabrielnascimento@gmail.com"> <img src="https://imgur.com/3ybmV4f.gif" alt="gif gmail"/></a>
