@@ -53,6 +53,8 @@ Minhas skills:
             </td>
             <td style="padding:10px"> <a href="https://www.instagram.com/devgabrielnascimento"> <img src="https://imgur.com/0zW4dLj.gif" alt="gif instagram"/></a>
             </td>
+            <td style="padding:10px"> <a href="https://www.instagram.com/devgabrielnascimento"> <img src="https://imgur.com/s5JOIo0.gif" alt="gif whatsapp"/></a>
+            </td>
         </tr>
     </table>
 </div>
