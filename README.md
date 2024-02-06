@@ -60,7 +60,7 @@ Minhas skills:
 <div id="image-table" align="center">
     <table>
         <tr>
-         <td style="padding:10px"> <a href="https://www.instagram.com/devgabrielnascimento"> <img src="https://imgur.com/s5JOIo0.gif" alt="gif whatsapp"/></a>
+         <td style="padding:10px"> <a href="#"> <img src="https://imgur.com/s5JOIo0.gif" alt="gif whatsapp"/></a>
             </td>
         </tr>
 </table>
@@ -76,7 +76,7 @@ Minhas skills:
 </div>
 </div>
 
-# Meus principais projetos
+<!-- # Meus principais projetos
 <!--
 **devgabrielnascimento/devgabrielnascimento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
