@@ -5,7 +5,7 @@
   <img alt=".." src="images/dev_gabriel_readme_dark.svg">
 </picture>
 
-<img src="https://imgur.com/wVngxzd.gif" alt="banner welcome"> 
+<!-- <img src="https://imgur.com/wVngxzd.gif" alt="banner welcome"> -->
 
 Bem-vindo ao meu perfil de desenvolvedor!
 
