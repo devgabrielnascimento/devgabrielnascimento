@@ -25,8 +25,6 @@ Minhas skills:
         </tr>
     </table>
 </div>
-
-
 <div id="image-table" align="center">
     <table>
         <tr>
@@ -38,6 +36,17 @@ Minhas skills:
             </td>
             <td style = "padding: 10px">
             <img src="https://imgur.com/JjqjggI.gif" alt="gif spring"/>
+            </td>
+        </tr>
+    </table>
+</div>
+
+Minhas certificações:
+<div id="image-table" align="center">
+    <table>
+        <tr>
+            <td style="padding:10px">
+            <img src="https://i.imgur.com/9s5ANiF.gif"/>
             </td>
         </tr>
     </table>
