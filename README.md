@@ -1,4 +1,9 @@
 <div align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devgabrielnascimento/devgabrielnascimento/e60d869d157f0c6b0330071c41bad2dd52b040c6/images/dev_gabriel_readme_light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devgabrielnascimento/devgabrielnascimento/e60d869d157f0c6b0330071c41bad2dd52b040c6/images/dev_gabriel_readme_dark.svg">
+  <img alt=".." src="images/dev_gabriel_readme_dark.svg">
+</picture>
 
 <img src="https://imgur.com/wVngxzd.gif" alt="banner welcome"> 
 
